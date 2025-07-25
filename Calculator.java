@@ -1,4 +1,4 @@
-// 작업1
+//작업2
 public class Calculator {
     public static void main(String[] args) {
         System.out.println("1+1 = 2");
